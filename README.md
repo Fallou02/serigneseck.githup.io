@@ -1,1 +1,1 @@
-# serigneseck.githup.io
+# serigneseck.github.io
